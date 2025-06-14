@@ -22,3 +22,7 @@ Whether you're a small business owner looking to expand your reach or a shopper 
 ⭐ Customer Reviews — Buyers can leave feedback and ratings on products and businesses.
 
 📊 Analytics Dashboard — Businesses can view reports on sales, engagement, and traffic.
+
+
+📌 Purpose
+Small-Biz-Hub was created as part of the CMPG224 Software Engineering module at North-West University. The goal is to apply agile methodologies and full-stack development skills to solve a real-world problem — giving small businesses a better online presence.
